@@ -1,0 +1,25 @@
+Store_ID,Store_Name,Store_Type,City,State,Region,Opening_Year,Store_Area_SqFt
+S01,Kaleido Bandra Flagship,Flagship,Mumbai,Maharashtra,West,2019,13972
+S02,Kaleido Andheri Mall Store,Mall Store,Mumbai,Maharashtra,West,2022,4646
+S03,Kaleido Koregaon Park Mall Store,Mall Store,Pune,Maharashtra,West,2022,5981
+S04,Kaleido Viman Nagar High Street,High Street,Pune,Maharashtra,West,2020,4174
+S05,Kaleido Connaught Arcade Flagship,Flagship,Delhi,Delhi,North,2021,13879
+S06,Kaleido Saket Mall Store,Mall Store,Delhi,Delhi,North,2018,3731
+S07,Kaleido Indiranagar Flagship,Flagship,Bengaluru,Karnataka,South,2019,10587
+S08,Kaleido Whitefield Mall Store,Mall Store,Bengaluru,Karnataka,South,2019,6258
+S09,Kaleido Banjara Hills Mall Store,Mall Store,Hyderabad,Telangana,South,2022,5527
+S10,Kaleido Hitech City High Street,High Street,Hyderabad,Telangana,South,2020,3071
+S11,Kaleido T Nagar Mall Store,Mall Store,Chennai,Tamil Nadu,South,2016,4668
+S12,Kaleido Adyar High Street,High Street,Chennai,Tamil Nadu,South,2019,2960
+S13,Kaleido Park Street Mall Store,Mall Store,Kolkata,West Bengal,East,2021,4000
+S14,Kaleido Salt Lake High Street,High Street,Kolkata,West Bengal,East,2019,2806
+S15,Kaleido CG Road Mall Store,Mall Store,Ahmedabad,Gujarat,West,2018,6422
+S16,Kaleido Satellite High Street,High Street,Ahmedabad,Gujarat,West,2020,3347
+S17,Kaleido MI Road Mall Store,Mall Store,Jaipur,Rajasthan,North,2017,3689
+S18,Kaleido Vaishali Nagar Outlet,Outlet,Jaipur,Rajasthan,North,2022,2488
+S19,Kaleido Hazratganj Mall Store,Mall Store,Lucknow,Uttar Pradesh,North,2020,4365
+S20,Kaleido Gomti Nagar Outlet,Outlet,Lucknow,Uttar Pradesh,North,2016,2096
+S21,Kaleido Sitabuldi Mall Store,Mall Store,Nagpur,Maharashtra,West,2016,4122
+S22,Kaleido Dharampeth Outlet,Outlet,Nagpur,Maharashtra,West,2017,2610
+S23,Kaleido College Road Mall Store,Mall Store,Nashik,Maharashtra,West,2016,5272
+S24,Kaleido Gangapur Road Outlet,Outlet,Nashik,Maharashtra,West,2019,3043

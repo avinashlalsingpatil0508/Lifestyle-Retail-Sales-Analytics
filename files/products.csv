@@ -1,0 +1,133 @@
+Product_ID,Product_Name,Brand,Category,Sub_Category,Unit_Price,Cost_Price,Gross_Margin_Pct
+P0001,Threadwell Active Casual Wear,Threadwell,Fashion & Apparel,Men's Clothing,1899,974.1,48.7
+P0002,UrbanLoom Heritage Casual Wear,UrbanLoom,Fashion & Apparel,Men's Clothing,3299,1903.12,42.3
+P0003,Threadwell Classic Casual Wear,Threadwell,Fashion & Apparel,Men's Clothing,4299,2463.79,42.7
+P0004,Indigo Crest Premium Casual Wear,Indigo Crest,Fashion & Apparel,Men's Clothing,2099,1036.96,50.6
+P0005,UrbanLoom Premium Ethnic Wear,UrbanLoom,Fashion & Apparel,Women's Clothing,1199,633.1,47.2
+P0006,Indigo Crest Signature Ethnic Wear,Indigo Crest,Fashion & Apparel,Women's Clothing,3899,2128.01,45.4
+P0007,UrbanLoom Active Ethnic Wear,UrbanLoom,Fashion & Apparel,Women's Clothing,1099,545.92,50.3
+P0008,UrbanLoom Essential Ethnic Wear,UrbanLoom,Fashion & Apparel,Women's Clothing,3799,2199.23,42.1
+P0009,Kidoodle Signature Playwear,Kidoodle,Fashion & Apparel,Kids' Clothing,1399,756.08,46.0
+P0010,Kidoodle Classic Playwear,Kidoodle,Fashion & Apparel,Kids' Clothing,1099,600.17,45.4
+P0011,Kidoodle Active Playwear,Kidoodle,Fashion & Apparel,Kids' Clothing,1899,947.71,50.1
+P0012,Kidoodle Everyday Playwear,Kidoodle,Fashion & Apparel,Kids' Clothing,1899,976.06,48.6
+P0013,UrbanLoom Everyday T-Shirt,UrbanLoom,Fashion & Apparel,T-Shirts,999,515.99,48.3
+P0014,UrbanLoom Heritage T-Shirt,UrbanLoom,Fashion & Apparel,T-Shirts,699,404.73,42.1
+P0015,UrbanLoom Classic T-Shirt,UrbanLoom,Fashion & Apparel,T-Shirts,1199,641.78,46.5
+P0016,UrbanLoom Urban T-Shirt,UrbanLoom,Fashion & Apparel,T-Shirts,449,226.61,49.5
+P0017,Threadwell Classic Denim Jeans,Threadwell,Fashion & Apparel,Jeans,2299,1165.09,49.3
+P0018,UrbanLoom Urban Denim Jeans,UrbanLoom,Fashion & Apparel,Jeans,2499,1350.09,46.0
+P0019,Indigo Crest Heritage Denim Jeans,Indigo Crest,Fashion & Apparel,Jeans,1299,662.0,49.0
+P0020,UrbanLoom Essential Denim Jeans,UrbanLoom,Fashion & Apparel,Jeans,2699,1447.15,46.4
+P0021,Threadwell Premium Dress,Threadwell,Fashion & Apparel,Dresses,3599,1820.94,49.4
+P0022,Indigo Crest Heritage Dress,Indigo Crest,Fashion & Apparel,Dresses,2999,1458.93,51.4
+P0023,Threadwell Signature Dress,Threadwell,Fashion & Apparel,Dresses,3599,2074.42,42.4
+P0024,UrbanLoom Urban Dress,UrbanLoom,Fashion & Apparel,Dresses,2299,1229.68,46.5
+P0025,Indigo Crest Heritage Jacket,Indigo Crest,Fashion & Apparel,Jackets,2599,1273.36,51.0
+P0026,Indigo Crest Everyday Jacket,Indigo Crest,Fashion & Apparel,Jackets,3099,1644.47,46.9
+P0027,Indigo Crest Premium Jacket,Indigo Crest,Fashion & Apparel,Jackets,2699,1564.63,42.0
+P0028,Indigo Crest Signature Jacket,Indigo Crest,Fashion & Apparel,Jackets,4699,2447.18,47.9
+P0029,Indigo Crest Signature Shirt,Indigo Crest,Fashion & Apparel,Shirts,799,427.93,46.4
+P0030,Indigo Crest Classic Shirt,Indigo Crest,Fashion & Apparel,Shirts,2399,1377.63,42.6
+P0031,UrbanLoom Essential Shirt,UrbanLoom,Fashion & Apparel,Shirts,1699,953.08,43.9
+P0032,UrbanLoom Active Shirt,UrbanLoom,Fashion & Apparel,Shirts,1499,822.31,45.1
+P0033,Paadam Classic Sneakers,Paadam,Footwear,Sneakers,4799,2613.94,45.5
+P0034,StrideNest Premium Sneakers,StrideNest,Footwear,Sneakers,4499,2333.16,48.1
+P0035,StrideNest Heritage Sneakers,StrideNest,Footwear,Sneakers,2099,1118.79,46.7
+P0036,Paadam Signature Sneakers,Paadam,Footwear,Sneakers,4099,2431.67,40.7
+P0037,SoleCraft Signature Running Shoes,SoleCraft,Footwear,Sports Shoes,2599,1308.08,49.7
+P0038,SoleCraft Essential Running Shoes,SoleCraft,Footwear,Sports Shoes,4399,2367.68,46.2
+P0039,SoleCraft Everyday Running Shoes,SoleCraft,Footwear,Sports Shoes,3099,1688.91,45.5
+P0040,StrideNest Urban Running Shoes,StrideNest,Footwear,Sports Shoes,2299,1331.05,42.1
+P0041,SoleCraft Signature Oxford Shoes,SoleCraft,Footwear,Formal Shoes,2299,1308.5,43.1
+P0042,Paadam Classic Oxford Shoes,Paadam,Footwear,Formal Shoes,3899,2322.44,40.4
+P0043,SoleCraft Everyday Oxford Shoes,SoleCraft,Footwear,Formal Shoes,2699,1380.59,48.8
+P0044,SoleCraft Premium Oxford Shoes,SoleCraft,Footwear,Formal Shoes,3899,2080.01,46.7
+P0045,StrideNest Essential Sandals,StrideNest,Footwear,Sandals,599,324.94,45.8
+P0046,StrideNest Classic Sandals,StrideNest,Footwear,Sandals,949,540.91,43.0
+P0047,SoleCraft Urban Sandals,SoleCraft,Footwear,Sandals,1899,1138.77,40.0
+P0048,StrideNest Active Sandals,StrideNest,Footwear,Sandals,1399,779.47,44.3
+P0049,SoleCraft Essential Loafers,SoleCraft,Footwear,Casual Shoes,1499,866.82,42.2
+P0050,StrideNest Urban Loafers,StrideNest,Footwear,Casual Shoes,1599,810.34,49.3
+P0051,Paadam Heritage Loafers,Paadam,Footwear,Casual Shoes,3899,2272.97,41.7
+P0052,Paadam Classic Loafers,Paadam,Footwear,Casual Shoes,2599,1373.15,47.2
+P0053,Tickwell Classic Watch,Tickwell,Accessories,Watches,5899,2780.33,52.9
+P0054,Tickwell Urban Watch,Tickwell,Accessories,Watches,8499,3641.24,57.2
+P0055,Tickwell Heritage Watch,Tickwell,Accessories,Watches,3999,2005.3,49.9
+P0056,Tickwell Premium Watch,Tickwell,Accessories,Watches,2999,1383.79,53.9
+P0057,Carryon Crafts Classic Handbag,Carryon Crafts,Accessories,Handbags,3799,1896.96,50.1
+P0058,Carryon Crafts Urban Handbag,Carryon Crafts,Accessories,Handbags,2299,966.58,58.0
+P0059,Carryon Crafts Signature Handbag,Carryon Crafts,Accessories,Handbags,999,407.81,59.2
+P0060,Carryon Crafts Essential Handbag,Carryon Crafts,Accessories,Handbags,5599,2275.25,59.4
+P0061,Carryon Crafts Active Wallet,Carryon Crafts,Accessories,Wallets,549,292.79,46.7
+P0062,Carryon Crafts Heritage Wallet,Carryon Crafts,Accessories,Wallets,999,540.1,45.9
+P0063,Carryon Crafts Premium Wallet,Carryon Crafts,Accessories,Wallets,949,446.78,52.9
+P0064,Carryon Crafts Essential Wallet,Carryon Crafts,Accessories,Wallets,1499,622.91,58.4
+P0065,Carryon Crafts Premium Leather Belt,Carryon Crafts,Accessories,Belts,749,339.02,54.7
+P0066,Carryon Crafts Heritage Leather Belt,Carryon Crafts,Accessories,Belts,1299,646.61,50.2
+P0067,Carryon Crafts Essential Leather Belt,Carryon Crafts,Accessories,Belts,799,433.84,45.7
+P0068,Carryon Crafts Everyday Leather Belt,Carryon Crafts,Accessories,Belts,949,381.6,59.8
+P0069,ShadeSmith Active Sunglasses,ShadeSmith,Accessories,Sunglasses,1899,896.98,52.8
+P0070,ShadeSmith Urban Sunglasses,ShadeSmith,Accessories,Sunglasses,1799,970.36,46.1
+P0071,ShadeSmith Premium Sunglasses,ShadeSmith,Accessories,Sunglasses,1299,632.32,51.3
+P0072,ShadeSmith Heritage Sunglasses,ShadeSmith,Accessories,Sunglasses,849,410.73,51.6
+P0073,Auraa Jewels Urban Jewellery Set,Auraa Jewels,Accessories,Jewellery,8399,3458.99,58.8
+P0074,Auraa Jewels Essential Jewellery Set,Auraa Jewels,Accessories,Jewellery,1099,440.7,59.9
+P0075,Auraa Jewels Active Jewellery Set,Auraa Jewels,Accessories,Jewellery,1499,707.53,52.8
+P0076,Auraa Jewels Classic Jewellery Set,Auraa Jewels,Accessories,Jewellery,7799,4280.26,45.1
+P0077,Lumiere Naturals Active Serum,Lumiere Naturals,Beauty & Personal Care,Skincare,549,201.02,63.4
+P0078,Lumiere Naturals Signature Serum,Lumiere Naturals,Beauty & Personal Care,Skincare,1299,407.63,68.6
+P0079,Lumiere Naturals Essential Serum,Lumiere Naturals,Beauty & Personal Care,Skincare,499,192.37,61.4
+P0080,Lumiere Naturals Everyday Serum,Lumiere Naturals,Beauty & Personal Care,Skincare,699,240.09,65.7
+P0081,Aroma India Heritage Makeup Kit,Aroma India,Beauty & Personal Care,Makeup,649,247.87,61.8
+P0082,Aroma India Classic Makeup Kit,Aroma India,Beauty & Personal Care,Makeup,1399,556.59,60.2
+P0083,GlowVeda Signature Makeup Kit,GlowVeda,Beauty & Personal Care,Makeup,349,143.08,59.0
+P0084,Lumiere Naturals Premium Makeup Kit,Lumiere Naturals,Beauty & Personal Care,Makeup,399,131.54,67.0
+P0085,GlowVeda Essential Eau de Parfum,GlowVeda,Beauty & Personal Care,Perfumes,2099,804.05,61.7
+P0086,Lumiere Naturals Active Eau de Parfum,Lumiere Naturals,Beauty & Personal Care,Perfumes,2599,781.32,69.9
+P0087,Lumiere Naturals Everyday Eau de Parfum,Lumiere Naturals,Beauty & Personal Care,Perfumes,949,385.49,59.4
+P0088,Aroma India Urban Eau de Parfum,Aroma India,Beauty & Personal Care,Perfumes,1199,432.06,64.0
+P0089,GlowVeda Signature Hair Care Set,GlowVeda,Beauty & Personal Care,Haircare,349,129.42,62.9
+P0090,GlowVeda Essential Hair Care Set,GlowVeda,Beauty & Personal Care,Haircare,399,130.98,67.2
+P0091,GlowVeda Classic Hair Care Set,GlowVeda,Beauty & Personal Care,Haircare,499,158.01,68.3
+P0092,GlowVeda Premium Hair Care Set,GlowVeda,Beauty & Personal Care,Haircare,1099,405.28,63.1
+P0093,GlowVeda Essential Body Care Pack,GlowVeda,Beauty & Personal Care,Personal Care Products,449,171.34,61.8
+P0094,Aroma India Signature Body Care Pack,Aroma India,Beauty & Personal Care,Personal Care Products,649,255.4,60.6
+P0095,GlowVeda Premium Body Care Pack,GlowVeda,Beauty & Personal Care,Personal Care Products,449,178.89,60.2
+P0096,Aroma India Urban Body Care Pack,Aroma India,Beauty & Personal Care,Personal Care Products,249,86.42,65.3
+P0097,HearthHaus Active Bedsheet Set,HearthHaus,Home & Lifestyle,Bedsheets,1099,507.92,53.8
+P0098,HearthHaus Essential Bedsheet Set,HearthHaus,Home & Lifestyle,Bedsheets,2099,1211.96,42.3
+P0099,Lumo Lights Urban Bedsheet Set,Lumo Lights,Home & Lifestyle,Bedsheets,1199,622.45,48.1
+P0100,Nivas Living Heritage Bedsheet Set,Nivas Living,Home & Lifestyle,Bedsheets,1099,607.75,44.7
+P0101,HearthHaus Classic Decor Piece,HearthHaus,Home & Lifestyle,Home Decor,2999,1707.47,43.1
+P0102,Nivas Living Everyday Decor Piece,Nivas Living,Home & Lifestyle,Home Decor,699,337.36,51.7
+P0103,HearthHaus Heritage Decor Piece,HearthHaus,Home & Lifestyle,Home Decor,4799,2721.83,43.3
+P0104,Lumo Lights Premium Decor Piece,Lumo Lights,Home & Lifestyle,Home Decor,4399,2119.38,51.8
+P0105,HearthHaus Urban Kitchen Set,HearthHaus,Home & Lifestyle,Kitchen Accessories,1799,857.26,52.3
+P0106,HearthHaus Everyday Kitchen Set,HearthHaus,Home & Lifestyle,Kitchen Accessories,1999,1122.11,43.9
+P0107,Nivas Living Essential Kitchen Set,Nivas Living,Home & Lifestyle,Kitchen Accessories,1599,777.74,51.4
+P0108,HearthHaus Heritage Kitchen Set,HearthHaus,Home & Lifestyle,Kitchen Accessories,399,215.21,46.1
+P0109,HearthHaus Signature Curtain Set,HearthHaus,Home & Lifestyle,Furnishing,3399,1816.13,46.6
+P0110,Lumo Lights Everyday Curtain Set,Lumo Lights,Home & Lifestyle,Furnishing,2099,1005.33,52.1
+P0111,Lumo Lights Premium Curtain Set,Lumo Lights,Home & Lifestyle,Furnishing,1399,640.77,54.2
+P0112,Nivas Living Classic Curtain Set,Nivas Living,Home & Lifestyle,Furnishing,849,453.28,46.6
+P0113,Lumo Lights Urban Table Lamp,Lumo Lights,Home & Lifestyle,Lighting,1299,663.76,48.9
+P0114,Lumo Lights Heritage Table Lamp,Lumo Lights,Home & Lifestyle,Lighting,2199,1237.14,43.7
+P0115,Lumo Lights Essential Table Lamp,Lumo Lights,Home & Lifestyle,Lighting,2699,1260.08,53.3
+P0116,Lumo Lights Classic Table Lamp,Lumo Lights,Home & Lifestyle,Lighting,2099,1131.28,46.1
+P0117,FitFurnace Premium Activewear,FitFurnace,Sports & Fitness,Sportswear,749,425.63,43.2
+P0118,ZenFlex Essential Activewear,ZenFlex,Sports & Fitness,Sportswear,2299,1207.24,47.5
+P0119,SprintPro Heritage Activewear,SprintPro,Sports & Fitness,Sportswear,2999,1508.47,49.7
+P0120,SprintPro Everyday Activewear,SprintPro,Sports & Fitness,Sportswear,2499,1279.54,48.8
+P0121,SprintPro Active Gym Duffel,SprintPro,Sports & Fitness,Gym Bags,1599,771.88,51.7
+P0122,FitFurnace Classic Gym Duffel,FitFurnace,Sports & Fitness,Gym Bags,1899,977.1,48.5
+P0123,ZenFlex Signature Gym Duffel,ZenFlex,Sports & Fitness,Gym Bags,1299,675.09,48.0
+P0124,FitFurnace Essential Gym Duffel,FitFurnace,Sports & Fitness,Gym Bags,1899,1032.7,45.6
+P0125,ZenFlex Heritage Resistance Kit,ZenFlex,Sports & Fitness,Fitness Accessories,699,401.92,42.5
+P0126,SprintPro Signature Resistance Kit,SprintPro,Sports & Fitness,Fitness Accessories,999,515.9,48.4
+P0127,SprintPro Urban Resistance Kit,SprintPro,Sports & Fitness,Fitness Accessories,249,121.11,51.4
+P0128,ZenFlex Everyday Resistance Kit,ZenFlex,Sports & Fitness,Fitness Accessories,1199,685.73,42.8
+P0129,ZenFlex Classic Yoga Mat,ZenFlex,Sports & Fitness,Yoga Products,2099,1128.9,46.2
+P0130,ZenFlex Essential Yoga Mat,ZenFlex,Sports & Fitness,Yoga Products,749,412.17,45.0
+P0131,ZenFlex Premium Yoga Mat,ZenFlex,Sports & Fitness,Yoga Products,649,354.04,45.4
+P0132,ZenFlex Heritage Yoga Mat,ZenFlex,Sports & Fitness,Yoga Products,1599,890.22,44.3

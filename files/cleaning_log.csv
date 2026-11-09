@@ -1,0 +1,34 @@
+Step,Issue,Records_Affected,Action
+01 Profile,Raw records loaded,22180,Baseline row count (includes duplicates)
+02 Standardization,Leading/trailing whitespace in text fields,239,TRIM applied to all text columns
+02 Standardization,Category text case mismatch (UPPER/lower),156,Mapped to master category list (PROPER names)
+02 Standardization,Sales_Channel case mismatch,135,Mapped to Online / Offline / Mobile App
+02 Standardization,City alias (Bangalore -> Bengaluru),122,Alias mapping to official city names
+03 Data types,Dates stored as DD-MM-YYYY text instead of ISO date,221,Parsed to true DATE type (YYYY-MM-DD)
+03 Data types,"Currency/number stored as text (e.g. ""₹1,299"")",221,"Stripped ₹ and commas, converted to numeric"
+04 Invalid values,Discount on 0-100 scale instead of 0-1 fraction,60,Divided by 100
+05 Duplicates,Duplicate Order_ID records,180,Removed (kept first occurrence)
+06 Missing values,Missing Customer_Name (customer),70,Restored from customer master via Customer_ID
+06 Missing values,Missing Gender (customer),90,Restored from customer master via Customer_ID
+06 Missing values,Missing Age (customer),140,Restored from customer master via Customer_ID
+04 Invalid values,Age inconsistent with customer master (outlier / invalid),12,Replaced from customer master via Customer_ID
+06 Missing values,Missing Brand (product),80,Restored from product master via Product_ID
+04 Invalid values,Unit_Price inconsistent with product master (outlier / invalid),12,Replaced from product master via Product_ID
+06 Missing values,Missing City (store),58,Restored from store master via Store_ID
+04 Invalid values,Quantity <= 0 (impossible),25,Re-derived as Revenue / (Unit_Price x (1 - Discount))
+04 Invalid values,Ship_Date earlier than Order_Date,30,Dates swapped back
+04 Invalid values,Revenue not equal to Qty x Price x (1 - Discount),40,Recomputed from the business rule
+04 Invalid values,Profit not equal to Revenue - Qty x Cost,0,Recomputed
+07 Outliers,"High-value orders above Q3 + 1.5 x IQR within category (flagged, genuine bulk/premium orders)",1428,"RETAINED - valid business transactions, not errors"
+08 Validation,Order_ID unique,0,PASS
+08 Validation,No nulls except Ship_Date of cancelled orders,0,PASS
+08 Validation,Ship_Date >= Order_Date,0,PASS
+08 Validation,Quantity between 1 and 5,0,PASS
+08 Validation,Discount between 0 and 0.5,0,PASS
+08 Validation,Revenue = Qty x Price x (1-Disc),0,PASS
+08 Validation,Profit = Revenue - Qty x Cost,0,PASS
+08 Validation,Cancelled orders have no returns,0,PASS
+08 Validation,Age between 18 and 68,0,PASS
+08 Validation,Dates within Jan-2023..Dec-2025,0,PASS
+08 Validation,Cleaned data identical to the verified synthetic source (assert_frame_equal),0,PASS
+09 Output,Cleaned records produced,22000,Saved as sales_data.csv / Cleaned_Data sheet
